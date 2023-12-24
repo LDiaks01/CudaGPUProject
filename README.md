@@ -31,3 +31,5 @@ Contains the sequential version of the visibility calculation.
 Used to load heightmaps and pass them to other functions. No need to set grid and block sizes in the main function.
 
 
+
+The project entails coding four mandatory CUDA algorithms, starting with a naive approach and gradually optimizing the code for GPU parallelization. The objective is to efficiently identify visible points from a given point in the heightmap, considering the potential computational cost, especially on large-scale heightmap
